@@ -1,0 +1,11 @@
+{
+  "name": "landstate",
+  "version": "1.0.0",
+  "description": "A Real Estate Management System with 3d Modeling of 2d maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
